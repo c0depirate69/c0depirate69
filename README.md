@@ -6,6 +6,8 @@ I'm a **Cybersecurity Enthusiast** with a strong passion for **Threat Hunting, D
 - 🕵️ Threat Hunting & Digital Forensics & Incident Response
 - 🎯 Bug Hunting
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/codepirate69.png" alt="Your Image Badge" />
+
 
 ### 📜 Certifications
 <div align="center">
