@@ -1,12 +1,15 @@
 ## About Me 👋
 
-I'm a **Cybersecurity Enthusiast** with a strong passion for **Threat Hunting, Digital Forensics, and Incident Response**. I enjoy diving deep into **Windows Event Logs, Sysmon, and network traffic** to detect adversary techniques. Currently, I'm a **Master's student at Saarland University**, specializing in **Cybersecurity**.
+I'm a **Cybersecurity Enthusiast** with a strong passion for **Threat Hunting, Digital Forensics, and Incident Response**. I enjoy diving deep into **Windows Event Logs, Sysmon, and network traffic** to detect adversary techniques. Currently, I'm a **Master's student at Saarland University**, specializing in **Cybersecurity**.  
+<div align="center">
+<a href ='https://tryhackme.com/p/codepirate69'> <img src="https://tryhackme-badges.s3.amazonaws.com/codepirate69.png?update=2" alt="Your Image Badge" /> </a>
+</div>  
 
 ### 🔥 What I Do
 - 🕵️ Threat Hunting & Digital Forensics & Incident Response
 - 🎯 Bug Hunting
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/codepirate69.png" alt="Your Image Badge" />
+
 
 
 ### 📜 Certifications
