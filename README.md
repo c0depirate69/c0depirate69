@@ -36,12 +36,12 @@ I'm a **Cybersecurity Enthusiast** with a strong passion for **Threat Hunting, D
   - EDR Solutions (Wazuh, Velociraptor)
   - Traffic Analysis (Wireshark, Network Miner)
 
-- **Cloud & Infrastructure**:
+- **Infrastructure**:
   - Windows Server Administration
   - RedHat Linux Administration
   - Firewall Technologies
 
-- **Penetration Testing & Ethical Hacking**:
+- **Penetration Testing**:
   - Web Penetration Testing
 
 
